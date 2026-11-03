@@ -63,4 +63,3 @@ This project aims to answer questions such as:
 This project was developed as part of the **2026 NYU Data Science Bootcamp**.
 
 The goal is to apply data cleaning, exploratory analysis, visualization, and statistical methods to a real-world social media dataset and communicate meaningful insights from the analysis.
-글 수정
