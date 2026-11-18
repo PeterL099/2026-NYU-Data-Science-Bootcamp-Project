@@ -1,4 +1,4 @@
-# Social Media Sentiment Analysis
+# Social Media Sentiment & User Engagement Analysis
 
 This project analyzes social media data to explore how **sentiment, platform, and user engagement** are related across different social networking services (SNS).
 
