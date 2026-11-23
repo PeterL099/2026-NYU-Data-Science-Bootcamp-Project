@@ -45,7 +45,6 @@ The project uses Python and data analysis libraries to perform:
 - Pandas
 - NumPy
 - Matplotlib
-- SciPy
 - Jupyter Notebook
 
 ## Key Questions
